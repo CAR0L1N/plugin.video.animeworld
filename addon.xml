@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.example"
+<addon id="plugin.video.animeworld"
 version="3.0.1"
-name="Example Kodi Video Plugin"
-provider-name="Roman_V_M">
+name="Anime World"
+provider-name="EmuZON3">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
 </requires>
@@ -11,7 +11,7 @@ provider-name="Roman_V_M">
 </extension>
 <extension point="xbmc.addon.metadata">
   <summary lang="en_GB">Example Kodi Video Plugin</summary>
-  <description lang="en_GB">An example video plugin for Kodi mediacenter.</description>
+  <description lang="en_GB">An anime video plugin for Kodi mediacenter.</description>
   <disclaimer lang="en_GB">Public domain movies are provided by publicdomainmovie.net.</disclaimer>
   <license>GPL-3.0-only	</license>
   <assets>
